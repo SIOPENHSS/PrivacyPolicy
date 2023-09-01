@@ -1,9 +1,10 @@
-# Kebijakan Privasi Aplikasi SIOPEN
+# Kebijakan Privasi SIOPEN
 
-**Terakhir diperbarui:** [Tanggal Terbaru]
+**Terakhir diperbarui:** 01 September 2023
 
-Selamat datang di Aplikasi SIOPEN ("Aplikasi"). Aplikasi ini dijalankan oleh Pemerintah Kabupaten Hulu Sungai Selatan. Kami menghargai kepercayaan Anda dalam menggunakan layanan kami. Kebijakan privasi ini dirancang untuk menjelaskan 
-bagaimana kami mengumpulkan, menggunakan, melindungi, dan membagikan data pribadi Anda saat Anda menggunakan Aplikasi SIOPEN. Harap membaca kebijakan ini dengan seksama untuk memahami bagaimana kami mengelola data Anda.
+Selamat datang di SIOPEN ("Aplikasi"). Aplikasi ini dijalankan oleh Pemerintah Kabupaten Hulu Sungai Selatan. Kami menghargai kepercayaan Anda dalam menggunakan layanan kami. Kebijakan privasi ini dirancang untuk menjelaskan bagaimana kami mengumpulkan, menggunakan, melindungi, dan membagikan data pribadi Anda saat Anda menggunakan Aplikasi SIOPEN. Harap membaca kebijakan ini dengan seksama untuk memahami bagaimana kami mengelola data Anda.
+
+**URL Aplikasi:** [https://siopen.hulusungaiselatankab.go.id](https://siopen.hulusungaiselatankab.go.id)
 
 ## 1. Pengumpulan Data Pribadi
 
@@ -20,7 +21,7 @@ Kami mengumpulkan beberapa data pribadi dari pengguna Aplikasi SIOPEN, yang menc
    - Nomor telepon
    - Alamat email
 
-### b. Data Pekerjaan (hanya untuk pembeli dari instansi pemerintahan):
+### b. Data Pekerjaan (hanya untuk pengguna dari instansi pemerintahan):
    - Jabatan pekerjaan
    - Instansi pemerintahan
 
@@ -60,7 +61,8 @@ Jika Anda mengizinkan, kami dapat mengakses data lokasi Anda melalui perangkat A
 
 Kami hanya akan membagikan data pribadi Anda dengan pihak ketiga dalam situasi yang diperlukan untuk tujuan layanan dan pemenuhan kewajiban hukum, termasuk instansi pemerintahan terkait dengan pajak.
 
+**Pernyataan perubahan kebijakan privasi:** Kebijakan privasi kami dapat berubah kapan pun. Perubahan akan diberlakukan setelah pembaruan diposting di situs web Aplikasi SIOPEN.
+
 Jika Anda memiliki pertanyaan atau kekhawatiran tentang kebijakan privasi ini, jangan ragu untuk menghubungi kami.
 
 Terima kasih telah menggunakan Aplikasi SIOPEN.
-
