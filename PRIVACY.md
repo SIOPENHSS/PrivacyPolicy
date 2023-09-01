@@ -61,6 +61,20 @@ Jika Anda mengizinkan, kami dapat mengakses data lokasi Anda melalui perangkat A
 
 Kami hanya akan membagikan data pribadi Anda dengan pihak ketiga dalam situasi yang diperlukan untuk tujuan layanan dan pemenuhan kewajiban hukum, termasuk instansi pemerintahan terkait dengan pajak.
 
+## 6. Penggunaan Aplikasi
+
+Kami mengingatkan bahwa penggunaan aplikasi ini dirancang sesuai prinsip-prinsip peraturan perundangan yang berlaku, khususnya yang terkait dengan pengadaan barang dan jasa pemerintah. Segala bentuk pelanggaran terhadap ketentuan tersebut merupakan sepenuhnya tanggung jawab para pihak yang bertransaksi pada aplikasi SIOPEN sesuai ketentuan peraturan perundangan yang berlaku.
+
+## 7. Keamanan Aplikasi
+
+Kami berkomitmen untuk menjaga keamanan data pribadi Anda dan telah mengambil langkah-langkah yang sesuai untuk melindunginya. Namun, penting untuk diingat bahwa tidak ada sistem atau aplikasi yang selalu aman. Meskipun kami telah melakukan upaya maksimal untuk melindungi data pribadi Anda, kami tidak dapat memberikan jaminan keamanan yang absolut.
+
+Anda juga memiliki peran penting dalam menjaga keamanan data pribadi Anda. Harap selalu berhati-hati dan tidak mengungkapkan informasi pribadi Anda kepada orang lain, dan pastikan untuk menggunakan kata sandi yang kuat dan unik untuk akun Anda.
+
+Kami akan terus memantau dan meningkatkan langkah-langkah keamanan kami sesuai dengan perkembangan teknologi dan ancaman keamanan yang mungkin muncul. Namun, penggunaan Aplikasi SIOPEN adalah risiko Anda sendiri, dan Anda setuju bahwa penggunaan Aplikasi ini sepenuhnya atas risiko Anda.
+
+## 8. Perubahan Kebijakan Privasi
+
 **Pernyataan perubahan kebijakan privasi:** Kebijakan privasi kami dapat berubah kapan pun. Perubahan akan diberlakukan setelah pembaruan diposting di situs web Aplikasi SIOPEN.
 
 Jika Anda memiliki pertanyaan atau kekhawatiran tentang kebijakan privasi ini, jangan ragu untuk menghubungi kami.
